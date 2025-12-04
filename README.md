@@ -47,7 +47,7 @@ $ npm run start:prod
 ## Run tests
 
 ```bash
-# unit tests
+# unit testings
 $ npm run test
 
 # e2e tests
